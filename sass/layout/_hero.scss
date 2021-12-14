@@ -1,4 +1,4 @@
-.section-hero {
+.hero {
   max-width: 1600px;
   height: 600px;
   margin: auto;
@@ -16,12 +16,12 @@
   padding-bottom: 200px;
 }
 
-.hero-container {
+.hero__container {
   display: inline-block;
   flex-direction: column;
 }
 
-.hero-title {
+.hero__title {
   text-align: center;
   font-family: Roboto;
   font-weight: 900;
